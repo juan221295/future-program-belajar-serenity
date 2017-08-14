@@ -1,0 +1,62 @@
+<acceptance-test-run title="search the product" name="search the product" steps="5" successful="5" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="27005" timestamp="2017-08-14T19:03:37.699+07:00" session-id="a86d9c87-2d1f-6843-9495-383fac979d60">
+  <user-story id="BlibliLogin" name="Blibli login" path="stories/consult_dictionary/BlibliLogin.story"/>
+  <tags>
+    <tag name="Consult dictionary" type="feature"/>
+    <tag name="Consult dictionary/Blibli login" type="story"/>
+  </tags>
+  <test-group name="Given open home page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="f397dc7661ac13ae359b0d361c569b60.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="4036">
+      <screenshots>
+        <screenshot image="f397dc7661ac13ae359b0d361c569b60.png"/>
+      </screenshots>
+      <description>Open</description>
+    </test-step>
+  </test-group>
+  <test-group name="When i search the product" result="SUCCESS">
+    <screenshots>
+      <screenshot image="1316f842cf7a9e89817f81fb57ecdc8a.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="5197">
+      <screenshots>
+        <screenshot image="1316f842cf7a9e89817f81fb57ecdc8a.png"/>
+      </screenshots>
+      <description>Click search</description>
+    </test-step>
+  </test-group>
+  <test-group name="And i select the product" result="SUCCESS">
+    <screenshots>
+      <screenshot image="97256e9edf8541e04c634edff736b4f8.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="6593">
+      <screenshots>
+        <screenshot image="97256e9edf8541e04c634edff736b4f8.png"/>
+      </screenshots>
+      <description>Select item</description>
+    </test-step>
+  </test-group>
+  <test-group name="And i put the product to the bag" result="SUCCESS">
+    <screenshots>
+      <screenshot image="b3d0886b94dce305d96d9d8a3a1a3429.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="1922">
+      <screenshots>
+        <screenshot image="da40095a2b5f47ee83de37cf00a51841.png"/>
+      </screenshots>
+      <description>Add to bag</description>
+    </test-step>
+  </test-group>
+  <test-group name="Then i can see the product in the bag" result="SUCCESS">
+    <screenshots>
+      <screenshot image="0f218e1b4fca0c3a2f81d30e18ddd0e5.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="1315">
+      <screenshots>
+        <screenshot image="b3d0886b94dce305d96d9d8a3a1a3429.png"/>
+      </screenshots>
+      <description>Check add to bag success</description>
+    </test-step>
+  </test-group>
+</acceptance-test-run>

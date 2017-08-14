@@ -2,423 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53b88c4d-4e11-4ec4-a17d-45c27c0b7c53" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-com.blibli.future.serenity.tutor.AcceptanceTestSuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/failsafe-reports/com.blibli.future.serenity.tutor.AcceptanceTestSuite.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/futureprogram-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/AfterStories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/AfterStories.stats" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/AfterStories.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/BeforeStories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/BeforeStories.stats" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/BeforeStories.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/stories.consult_dictionary.BlibliLogin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/stories.consult_dictionary.BlibliLogin.stats" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/stories.consult_dictionary.BlibliLogin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/storyDurations.props" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/AfterStories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/AfterStories.stats.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/AfterStories.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.stats.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/BeforeStories.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/reports.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/stories.consult_dictionary.BlibliLogin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/stories.consult_dictionary.BlibliLogin.stats.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/stories.consult_dictionary.BlibliLogin.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/xref.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbehave/view/xref.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0042f9db54bb988eef476cadb37aa08dfdae171bc7e42a2cf709adf992fbf561.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0042f9db54bb988eef476cadb37aa08dfdae171bc7e42a2cf709adf992fbf561.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0928b147aa796c4090b6a55641a659fd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0c929c342a50345e65f4d8ef7f424b1b75ff8237bbb0a9c925d7151e0cdbc49d.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/0c929c342a50345e65f4d8ef7f424b1b75ff8237bbb0a9c925d7151e0cdbc49d.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/216529bbe7428305754555be90e5805e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/2db97811c188cdde6150371c41f1a1cada493938549bd822910e5c92f0fe0b86.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/2db97811c188cdde6150371c41f1a1cada493938549bd822910e5c92f0fe0b86.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/33b50c0b8cc27322ea9465979fcbd4011ae3a5bd0f5273164d2f06d588673581.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/37b4abe35b9034283307852777ff4f10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/37c16caf1a318ec285566c601e1dd79cc1e3fb1e7797f46413ad59c2607b5956.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/456f8ee6220fffc81dda27fcae2b797fd3796c08a189f5112f97d57ac2801062.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/456f8ee6220fffc81dda27fcae2b797fd3796c08a189f5112f97d57ac2801062.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4b3ae8220f0581b8b998894a34afe00dc03267dd26051df921bdb495d9be2d78.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4dd5ffb10e59dee2c1b3d66ea24691a716ed89ace0d7246cbc82ff8a50ce322e.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4dd5ffb10e59dee2c1b3d66ea24691a716ed89ace0d7246cbc82ff8a50ce322e.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4dd5ffb10e59dee2c1b3d66ea24691a716ed89ace0d7246cbc82ff8a50ce322e.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/4dd5ffb10e59dee2c1b3d66ea24691a716ed89ace0d7246cbc82ff8a50ce322e_screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/504f5285498d8200ad48b0e262760d94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/53817c059a428d65eecc969bf748e363.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/55f8bb053ba209e9f30e9c5e6c011032.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/5a47e987fd5ca982b595d7e1e4351172.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/6fdfe0aef02c138068f30e7f703ee0b3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/70a36c54cb23e7a3ad40e83a0c7f712a47167f9eb1a979c1651e3d430d7b08bd.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/70a36c54cb23e7a3ad40e83a0c7f712a47167f9eb1a979c1651e3d430d7b08bd.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/70a36c54cb23e7a3ad40e83a0c7f712a47167f9eb1a979c1651e3d430d7b08bd.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/70a36c54cb23e7a3ad40e83a0c7f712a47167f9eb1a979c1651e3d430d7b08bd_screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7a5d8ad21b85902b08d9d76ab0275fc5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/7e42c77a660eb15b190a3769a37a69e0e48e5e9bbb4a21813908631b461465d1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/86f2ce46a2af7596bf563fba9c391f326123aff1c9d359f365dd3f4718c4384c.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/86f2ce46a2af7596bf563fba9c391f326123aff1c9d359f365dd3f4718c4384c.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8fe4662d745e6a2ca1cb5e40f83cf2818d840cafaed3772770d5cc33b55af7bb.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/8fe4662d745e6a2ca1cb5e40f83cf2818d840cafaed3772770d5cc33b55af7bb.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/91d9b55d89d48083c49091863a6a18bc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/95e57dcc92122b827b28525e9aab2008d79509c2ec87522413a508c37c5247dc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/9a6fa35f537f1fd7214692e3180c73e5b7c0775fb9f1d4fc5db1f3859c401e03.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-4dd5ffb10e59dee2c1b3d66ea24691a716ed89ace0d7246cbc82ff8a50ce322e.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a012c4aabaca3e4be33e83b946a60f27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/a91bb527e6fdb12dc49d82a0e861a43812cb43713e56a5a7109aa1d2b2f3e902.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ae86df7458a418829734fe2f7c318d8a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/af07cda298052109dfed2955897b6c55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b54fc57e65b6b55387b2763f4cb7660d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b6cef35889c68cb070ec0e70d0388cefd21f8021e10eba5d5ce61a0349dff73f.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b6cef35889c68cb070ec0e70d0388cefd21f8021e10eba5d5ce61a0349dff73f.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/b89fe642301eb51374975cc4e412d7de.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/browser-firefox.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c5cdb6fe4a41aa4346bbf64355cd7619.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/c9e485e75a9df5d6f36be047ae58b481.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/css/core.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/css/link.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/css/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/css/tables.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/da8b391ab0c5c10167490994e347cb5a2c38e301a54bbc3d1ada08f206074b41.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/da8b391ab0c5c10167490994e347cb5a2c38e301a54bbc3d1ada08f206074b41.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/css/jquery.dataTables.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/css/jquery.dataTables.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/css/jquery.dataTables_themeroller.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/Sorting icons.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/back_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/back_enabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/back_enabled_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/forward_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/forward_enabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/forward_enabled_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_asc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_asc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_both.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_desc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/images/sort_desc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/dataTables.jqueryui.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/jqueryui/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/js/jquery.dataTables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/js/jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/datatables/1.10.4/media/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/dygraph/1.1.0/dygraph-combined.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/e9053c385d751c1b85fdfcc4274719b0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/eb99680a103812a26c1299908e25589c629effa8223f4c78c21ce341f010d340.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/eb99680a103812a26c1299908e25589c629effa8223f4c78c21ce341f010d340.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ee327c6d9feef908128be75c543b716e850e60e2db0d3a49581c843b0d339ce8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/ee327c6d9feef908128be75c543b716e850e60e2db0d3a49581c843b0d339ce8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/excanvas/3/excanvas.compiled.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/excanvas/3/excanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f00882642c3b5d3b1be108f78b971f68d25caaf4ca40569fb3537cc0357d8b24.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f00882642c3b5d3b1be108f78b971f68d25caaf4ca40569fb3537cc0357d8b24.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f00882642c3b5d3b1be108f78b971f68d25caaf4ca40569fb3537cc0357d8b24.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/f00882642c3b5d3b1be108f78b971f68d25caaf4ca40569fb3537cc0357d8b24_screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/fe1e6fd8e71034e83201153021a8fc58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/css/font-awesome-ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/css/font-awesome-ie7.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/font/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/font/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/font/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/font/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/font/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/extras.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/font-awesome-ie7.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_extras.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/font-awesome-ie7.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/bg_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/bg_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/bottomm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/cross.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-appium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-chrome.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-firefox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-htmlunit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-iexplorer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-opera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-phantomjs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-provided.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-remote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/driver-safari.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/fail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/greenline.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/ico-q.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/icon-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/ignor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/links_menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/menu_f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/menu_h.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/menu_s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/middle-left.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/middle-right.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/middle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/pending.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/serenity-bdd-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/skip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/small-middle-left.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/small-middle-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/small-middle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/tablebg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/tick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/top-left.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/top-right.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/topm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/traffic-green.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/traffic-in-progress.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/traffic-orange.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/traffic-red.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/traffic-yellow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/images/worker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/2.0.1/jit-yc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/2.0.1/jit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/AreaChart.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/BarChart.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/ForceDirected.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/ForceDirected3D.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/HeatMap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/Hypertree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/Icicle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/Other.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/PieChart.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/RGraph.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/Spacetree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/Sunburst.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/TimeGraph.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/Treemap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/col1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/col2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jit/css/gradient.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/excanvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/jquery.jqplot.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/jquery.jqplot.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.BezierCurveRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.BezierCurveRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.barRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.barRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.blockRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.blockRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.bubbleRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.bubbleRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasAxisLabelRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasAxisLabelRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasAxisTickRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasAxisTickRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasOverlay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasOverlay.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasTextRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.canvasTextRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.categoryAxisRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.categoryAxisRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.ciParser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.ciParser.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.cursor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.dateAxisRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.dateAxisRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.donutRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.donutRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.dragable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.dragable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.enhancedLegendRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.enhancedLegendRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.funnelRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.funnelRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.highlighter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.highlighter.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.json2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.json2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.logAxisRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.logAxisRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mekkoAxisRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mekkoAxisRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mekkoRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mekkoRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.meterGaugeRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.meterGaugeRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mobile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.mobile.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.ohlcRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.ohlcRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pieRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pieRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pointLabels.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pointLabels.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidAxisRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidAxisRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidGridRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidGridRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidRenderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.pyramidRenderer.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.trendline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqplot/1.0.8/plugins/jqplot.trendline.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqtree/0.22/jqtree-circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqtree/0.22/jqtree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqtree/0.22/tree.jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/external/jquery/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_flat_55_999999_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_flat_75_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_glass_45_0078ae_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_glass_55_f8da4e_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_glass_75_79c9ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_45_e14f1c_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_50_6eac2c_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_75_2191c0_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_0078ae_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_056b93_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_d8e7f3_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_e0fdff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_f5e175_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_f7a50d_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/images/ui-icons_fcd113_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.structure.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.structure.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/jqueryui/1.11.2-start/jquery-ui.theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/dev7logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/nemo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/toystory.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/up.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/images/walle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/scripts/jquery-1.9.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/demo/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/jquery.nivo.slider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/jquery.nivo.slider.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/nivo-slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/nivoslider.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/bar/arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/bar/bar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/bar/bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/bar/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/dark/arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/dark/bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/dark/dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/dark/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/default/arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/default/bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/default/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/default/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/light/arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/light/bullets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/light/light.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/nivo-slider/3.2/themes/light/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_0928b147aa796c4090b6a55641a659fd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_216529bbe7428305754555be90e5805e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_37b4abe35b9034283307852777ff4f10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_504f5285498d8200ad48b0e262760d94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_53817c059a428d65eecc969bf748e363.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_6fdfe0aef02c138068f30e7f703ee0b3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_7a5d8ad21b85902b08d9d76ab0275fc5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_91d9b55d89d48083c49091863a6a18bc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_a012c4aabaca3e4be33e83b946a60f27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_ae86df7458a418829734fe2f7c318d8a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_af07cda298052109dfed2955897b6c55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_b54fc57e65b6b55387b2763f4cb7660d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_b89fe642301eb51374975cc4e412d7de.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_c5cdb6fe4a41aa4346bbf64355cd7619.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_c9e485e75a9df5d6f36be047ae58b481.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_e9053c385d751c1b85fdfcc4274719b0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scaled_fe1e6fd8e71034e83201153021a8fc58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scripts/imgpreview.full.jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scripts/jquery-1.11.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/scripts/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/serenity/serenity-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/blibli/future/serenity/tutor/AcceptanceTestSuite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/blibli/future/serenity/tutor/Behaviour/BlibliHomePageBehaviour.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/blibli/future/serenity/tutor/pages/BlibliHomePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/blibli/future/serenity/tutor/pages/DictionaryPage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/blibli/future/serenity/tutor/pages/DictionaryPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/blibli/future/serenity/tutor/steps/DefinitionSteps.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/blibli/future/serenity/tutor/steps/serenity/EndUserSteps.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stories/consult_dictionary/BlibliLogin.story" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stories/consult_dictionary/LookupADefinition.storyx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stories/consult_dictionary/narrative.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/stories/update_definition/narrative.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/Behaviour/BlibliHomePageBehaviour.java" afterPath="$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/Behaviour/BlibliHomePageBehaviour.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -488,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlibliLogin.story" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BlibliLogin.story" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/BlibliLogin.story">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="345">
               <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding />
             </state>
@@ -553,25 +138,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlibliHomePageBehaviour.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BlibliHomePageBehaviour.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/Behaviour/BlibliHomePageBehaviour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-89">
-              <caret line="83" column="60" lean-forward="false" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+            <state relative-caret-position="195">
+              <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#1129#1130#0" expanded="true" />
-                <element signature="e#1839#1840#0" expanded="true" />
-                <element signature="e#1892#1893#0" expanded="true" />
-                <element signature="e#1942#1943#0" expanded="true" />
-                <element signature="e#1999#2000#0" expanded="true" />
-                <element signature="e#2053#2054#0" expanded="true" />
-                <element signature="e#2119#2120#0" expanded="true" />
-                <element signature="e#2524#2525#0" expanded="true" />
-                <element signature="e#2586#2587#0" expanded="true" />
-                <element signature="e#2638#2639#0" expanded="true" />
-                <element signature="e#2710#2711#0" expanded="true" />
+                <element signature="e#1048#1049#0" expanded="true" />
+                <element signature="e#1121#1122#0" expanded="true" />
+                <element signature="e#1831#1832#0" expanded="true" />
+                <element signature="e#1884#1885#0" expanded="true" />
+                <element signature="e#1934#1935#0" expanded="true" />
+                <element signature="e#1991#1992#0" expanded="true" />
+                <element signature="e#2045#2046#0" expanded="true" />
+                <element signature="e#2111#2112#0" expanded="true" />
+                <element signature="e#2516#2517#0" expanded="true" />
+                <element signature="e#2578#2579#0" expanded="true" />
+                <element signature="e#2630#2631#0" expanded="true" />
+                <element signature="e#2702#2703#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -610,9 +195,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/steps/serenity/EndUserSteps.java" />
         <option value="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/BlibliAddToBag.story" />
         <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/steps/DefinitionSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/Behaviour/BlibliHomePageBehaviour.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/pages/BlibliHomePage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/BlibliLogin.story" />
+        <option value="$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/Behaviour/BlibliHomePageBehaviour.java" />
       </list>
     </option>
   </component>
@@ -1528,7 +1113,7 @@
       <workItem from="1502686233362" duration="1416000" />
       <workItem from="1502687830490" duration="616000" />
       <workItem from="1502694313667" duration="8170000" />
-      <workItem from="1502706978830" duration="5054000" />
+      <workItem from="1502706978830" duration="5290000" />
     </task>
     <servers />
   </component>
@@ -1538,7 +1123,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16724000" />
+    <option name="totallyTimeSpent" value="16960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="720" extended-state="6" />
@@ -1699,18 +1284,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1892#1893#0" expanded="true" />
-            <element signature="e#1942#1943#0" expanded="true" />
-            <element signature="e#1999#2000#0" expanded="true" />
-            <element signature="e#2053#2054#0" expanded="true" />
-            <element signature="e#2119#2120#0" expanded="true" />
-            <element signature="e#2524#2525#0" expanded="true" />
-            <element signature="e#2586#2587#0" expanded="true" />
-            <element signature="e#2638#2639#0" expanded="true" />
-            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1831#1832#0" expanded="true" />
+            <element signature="e#1884#1885#0" expanded="true" />
+            <element signature="e#1934#1935#0" expanded="true" />
+            <element signature="e#1991#1992#0" expanded="true" />
+            <element signature="e#2045#2046#0" expanded="true" />
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2516#2517#0" expanded="true" />
+            <element signature="e#2578#2579#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2702#2703#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2038,28 +1623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/Behaviour/BlibliHomePageBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="83" column="60" lean-forward="false" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1892#1893#0" expanded="true" />
-            <element signature="e#1942#1943#0" expanded="true" />
-            <element signature="e#1999#2000#0" expanded="true" />
-            <element signature="e#2053#2054#0" expanded="true" />
-            <element signature="e#2119#2120#0" expanded="true" />
-            <element signature="e#2524#2525#0" expanded="true" />
-            <element signature="e#2586#2587#0" expanded="true" />
-            <element signature="e#2638#2639#0" expanded="true" />
-            <element signature="e#2710#2711#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/steps/DefinitionSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -2087,9 +1650,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/stories/consult_dictionary/BlibliLogin.story">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="345">
           <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/blibli/future/serenity/tutor/Behaviour/BlibliHomePageBehaviour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1831#1832#0" expanded="true" />
+            <element signature="e#1884#1885#0" expanded="true" />
+            <element signature="e#1934#1935#0" expanded="true" />
+            <element signature="e#1991#1992#0" expanded="true" />
+            <element signature="e#2045#2046#0" expanded="true" />
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2516#2517#0" expanded="true" />
+            <element signature="e#2578#2579#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2702#2703#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

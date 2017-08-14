@@ -28,7 +28,7 @@ public class BlibliHomePageBehaviour extends ScenarioSteps {
         blibliHomePage.getLoginButton().click();
         blibliHomePage.getPopupLoginForm().waitUntilPresent().withTimeoutOf(5, TimeUnit.SECONDS);
         blibliHomePage.getInputLoginEmail().type(EMAIL);
-        blibliHomePage.getInputLoginPassword().type("password"); // input password
+        blibliHomePage.getInputLoginPassword().type(""); // input password
         blibliHomePage.getSubmitLoginButton().click();
 
     }

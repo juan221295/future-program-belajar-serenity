@@ -1,0 +1,86 @@
+<acceptance-test-run title="go to checkout" name="go to checkout" steps="7" successful="7" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="25899" timestamp="2017-08-14T18:55:27.486+07:00" session-id="1085605a-482c-2847-995c-0f38fae3b080">
+  <user-story id="BlibliLogin" name="Blibli login" path="stories/consult_dictionary/BlibliLogin.story"/>
+  <tags>
+    <tag name="Consult dictionary" type="feature"/>
+    <tag name="Consult dictionary/Blibli login" type="story"/>
+  </tags>
+  <test-group name="Given product already in the bag" result="SUCCESS">
+    <screenshots>
+      <screenshot image="0928b147aa796c4090b6a55641a659fd.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="877">
+      <screenshots>
+        <screenshot image="0928b147aa796c4090b6a55641a659fd.png"/>
+      </screenshots>
+      <description>Check add to bag success</description>
+    </test-step>
+  </test-group>
+  <test-group name="When i go to bag page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="6fdfe0aef02c138068f30e7f703ee0b3.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="4226">
+      <screenshots>
+        <screenshot image="6fdfe0aef02c138068f30e7f703ee0b3.png"/>
+      </screenshots>
+      <description>Open bag page</description>
+    </test-step>
+  </test-group>
+  <test-group name="When i go to payment checkout" result="SUCCESS">
+    <screenshots>
+      <screenshot image="e9053c385d751c1b85fdfcc4274719b0.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="5567">
+      <screenshots>
+        <screenshot image="e9053c385d751c1b85fdfcc4274719b0.png"/>
+      </screenshots>
+      <description>Go to checkout payment</description>
+    </test-step>
+  </test-group>
+  <test-group name="And i go to next checkout payment" result="SUCCESS">
+    <screenshots>
+      <screenshot image="504f5285498d8200ad48b0e262760d94.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="560">
+      <screenshots>
+        <screenshot image="504f5285498d8200ad48b0e262760d94.png"/>
+      </screenshots>
+      <description>Go to next payment checkout</description>
+    </test-step>
+  </test-group>
+  <test-group name="And i select the payment method" result="SUCCESS">
+    <screenshots>
+      <screenshot image="c9e485e75a9df5d6f36be047ae58b481.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="3148">
+      <screenshots>
+        <screenshot image="c5cdb6fe4a41aa4346bbf64355cd7619.png"/>
+        <screenshot image="c9e485e75a9df5d6f36be047ae58b481.png"/>
+      </screenshots>
+      <description>Select payment method</description>
+    </test-step>
+  </test-group>
+  <test-group name="And i pay the payment" result="SUCCESS">
+    <screenshots>
+      <screenshot image="b89fe642301eb51374975cc4e412d7de.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="5454">
+      <screenshots>
+        <screenshot image="af07cda298052109dfed2955897b6c55.png"/>
+        <screenshot image="b89fe642301eb51374975cc4e412d7de.png"/>
+      </screenshots>
+      <description>Go to final payment</description>
+    </test-step>
+  </test-group>
+  <test-group name="Then i can see thankyou page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="b89fe642301eb51374975cc4e412d7de.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="1130">
+      <screenshots>
+        <screenshot image="b89fe642301eb51374975cc4e412d7de.png"/>
+      </screenshots>
+      <description>Success checkout result</description>
+    </test-step>
+  </test-group>
+</acceptance-test-run>

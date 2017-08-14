@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Blibli login","go to blibli site and login","SUCCESS","2017-08-14T18:54:38.304+07:00","0.0","22.05"
+"Blibli login","go to checkout","SUCCESS","2017-08-14T18:55:27.486+07:00","0.0","25.9"
+"Blibli login","search the product","SUCCESS","2017-08-14T18:55:00.442+07:00","0.0","27.04"

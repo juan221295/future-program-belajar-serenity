@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Blibli login" skipped="0" tests="3" time="75.0" timestamp="2017-08-226 06:54:38"><testcase name="go to blibli site and login"/><testcase name="search the product"/><testcase name="go to checkout"/></testsuite>

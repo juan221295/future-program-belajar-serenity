@@ -21,7 +21,7 @@ Then i can see the product in the bag
 Scenario: make a payment
 Given product already in the bag
 When i go to bag page
-When i go to payment checkout
+And i go to payment checkout
 And i go to next checkout payment
 And i select the payment method
 And i pay the payment

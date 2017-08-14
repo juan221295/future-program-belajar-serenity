@@ -18,7 +18,7 @@ And i select the product
 And i put the product to the bag
 Then i can see the product in the bag
 
-Scenario: go to checkout
+Scenario: make a payment
 Given product already in the bag
 When i go to bag page
 When i go to payment checkout
